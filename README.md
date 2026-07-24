@@ -1,6 +1,8 @@
-# Notebook Exercises
+# Python Basics Notebook
 
-This workspace contains a Python Jupyter notebook with beginner programming practice, including:
+This repository contains a beginner-friendly Python Jupyter notebook for practicing core programming concepts. It includes simple exercises for conditionals, loops, classes, inheritance, and a basic menu-driven unit converter.
+
+## Topics Covered
 
 - conditionals and user input
 - loops and simple calculations
@@ -9,7 +11,7 @@ This workspace contains a Python Jupyter notebook with beginner programming prac
 
 ## Files
 
-- `Untitled0.ipynb` - the main notebook
+- `python_basics.ipynb` - the main notebook
 
 ## Usage
 
